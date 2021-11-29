@@ -5,9 +5,10 @@ import java.util.Scanner;
 
 public class dz2p5 {
     public static void main(String[] args) {
+        System.out.println("Введите три целых попарно неравных между собой числа ");
         Scanner scn = new Scanner(System.in);
         if (scn.hasNextInt()) {
-            System.out.println("Введите три целых попарно неравных между собой числа ");
+
             int[] mas = new int[3];
             for ( int i=0; i<3; i++){
                 mas[i] = scn.nextInt();
