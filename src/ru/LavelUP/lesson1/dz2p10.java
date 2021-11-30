@@ -12,10 +12,7 @@ public class dz2p10 {
                 if (ost==0) {
                     System.out.println(i);
                 }
-
-
             }
-
         }
         else{
             System.out.println("введите число!");
