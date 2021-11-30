@@ -1,3 +1,5 @@
+package ru.LavelUP.lesson1;
+
 public class dz1p2 {
     public static void main(String [] arg) {
         int a = 3;
