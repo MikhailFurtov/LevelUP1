@@ -26,6 +26,8 @@ public class Reader {
     void returnBook(int number) {
         System.out.println(fio + " вернул " + number + " книги.");
     }
+    void takeBook(Book... book){
 
+    }
 
 }
